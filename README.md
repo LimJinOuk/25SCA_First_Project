@@ -7,6 +7,9 @@
   <ul>
     <h2>Back-End</h2>
     <li>
+      <a href = "https://github.com/LimJinOuk""> 임진욱 , SangMyung Univ. </a>
+    </li>
+    <li>
       <a href = "https://github.com/LeeGyoengJin""> 이경진 , SangMyung Univ. </a>
     </li>
   </ul>
