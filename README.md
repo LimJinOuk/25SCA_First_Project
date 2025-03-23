@@ -5,7 +5,7 @@
 <h3>Team Mate</h3>
 <ul>
   <li>
-    <a href = https://github.com/LeeGyoengJin""> 이경진 , SangMyung Univ. </a>
+    <a href = "https://github.com/LeeGyoengJin""> 이경진 , SangMyung Univ. </a>
   </li>
   <li>
     <a href = "https://github.com/somgam6373" > 이준혁 , SangMyung Univ. </a>
