@@ -4,12 +4,18 @@
 <br/>
 <h3>Team Mate</h3>
 <ul>
-  <li>
-    <a href = "https://github.com/LeeGyoengJin""> 이경진 , SangMyung Univ. </a>
-  </li>
-  <li>
-    <a href = "https://github.com/somgam6373" > 이준혁 , SangMyung Univ. </a>
-  </li>
+  <ul>
+    <h2>Back-End</h2>
+    <li>
+      <a href = "https://github.com/LeeGyoengJin""> 이경진 , SangMyung Univ. </a>
+    </li>
+  </ul>
+  <ul>
+    <h2>Front-End</h2>
+    <li>
+      <a href = "https://github.com/somgam6373" > 이준혁 , SangMyung Univ. </a>
+    </li>
+  </ul>
 </ul>
 
 <br/>
